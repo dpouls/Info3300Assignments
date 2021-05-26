@@ -21,6 +21,6 @@ class User{
     }
     public function __toString(){
         return 'Username: ' . $this->getUsername() . 
-        ' | Waiver filled out: ' . $this.getWaiverFilled();
+        ' | Waiver filled out: ' . $this->getWaiverFilled();
     }
 }

@@ -20,5 +20,4 @@ class Memory{
                'Question2: ' . $this->getQuestion2() . '<br>' . 
                'Outcome: ' . $this->getOutcome();
     }
-
 }

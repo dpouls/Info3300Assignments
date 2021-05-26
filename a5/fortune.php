@@ -1,5 +1,4 @@
 <?php
-
 class Fortune{
     public $relationships, $money, $fame, $lucky_number;
     public function __construct($rel,$mon,$fame,$lucky){
